@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🧠 Drugi mózg · Studia
+# Studia
 
-**Notatki ze studiów informatycznych — krótko, konkretnie, bez lania wody.**
+**Notatki ze studiów informatycznych**
 
 ![Przedmioty](https://img.shields.io/badge/przedmioty-6-8A2BE2?style=for-the-badge)
 ![Notatki](https://img.shields.io/badge/notatki-35-00C7B7?style=for-the-badge)
@@ -38,6 +38,6 @@
 
 <div align="center">
 
-<sub>Zrobione dla grupy · jeśli pomogło, zostaw ⭐</sub>
+<sub>Jeśli pomogło, zostaw ⭐</sub>
 
 </div>
